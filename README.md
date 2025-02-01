@@ -6,7 +6,7 @@
 
 [Workshop workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb)
 
-[Challenge workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/classiq_iQuHack_2025_final.ipynb)
+All the information you need is here: [Challenge workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/classiq_iQuHack_2025_final.ipynb)
 
 ## Your resources:
 - The Classiq IDE at [platform.classiq.io](https://platform.classiq.io/).
