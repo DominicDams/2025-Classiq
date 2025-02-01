@@ -4,7 +4,10 @@
 
 # Classiq iQuHack 2025 - The Challange!
 
-In the case you missed the preparation session, please find it here: [Workshop workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb)
+In the case you missed the preparation session, please find it here: 
+- [Session recording](https://web.mit.edu/webcast/iquhack/s25/video/5/?autoplay=1)
+- [Workshop workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb)
+
 
 All the information you need to complete the challenge is here: [Challenge workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/classiq_iQuHack_2025_final.ipynb)
 
