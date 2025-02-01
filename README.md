@@ -1,4 +1,4 @@
-# 2025-planning-Classiq
+# Classiq iQuHack 2025 - The Challange!
 
 [Workshop workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb)
 
