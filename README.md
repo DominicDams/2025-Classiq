@@ -15,6 +15,8 @@
 - The [Classiq Community Slack](https://short.classiq.io/join-slack) – where the Classiq team will address any questions, including implementation-related queries.
 - The [Warm-Up session](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb) is highly recommended as well!
 
+<br>
+
 ## Submission:
 
 Submit all the files via the [submission page](https://fvrn0h72gwo.typeform.com/to/W4I7N9yl).
