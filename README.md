@@ -16,7 +16,9 @@
 
 
 
-| <img width="500" alt="MIT-Classiq Logo" src="https://github.com/user-attachments/assets/3213b0ac-47ee-462a-80f4-a45c5cd76c52" /> |
-|:--:|
+> ![MIT-Classiq Logo](https://github.com/user-attachments/assets/3213b0ac-47ee-462a-80f4-a45c5cd76c52)
+>
+> *Centered using a blockquote for better spacing*
+
 
 
