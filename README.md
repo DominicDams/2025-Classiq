@@ -9,4 +9,4 @@
 - The [Classiq Library](https://github.com/Classiq/classiq-library) – the largest collection of quantum functions, algorithms, and tutorials.
 - [Classiq's documentation](https://docs.classiq.io/latest/) and the [Classiq101](https://docs.classiq.io/latest/classiq_101/) for quick onboarding to high-level quantum modelling concepts.
 - The [Classiq Community Slack](https://short.classiq.io/join-slack) – where the Classiq team will address any questions, including implementation-related queries.
-- The Warm-Up session is highly recommended as well!
+- The [Warm-Up session](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb) is highly recommended as well!
