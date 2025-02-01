@@ -12,4 +12,7 @@
 - The [Warm-Up session](https://github.com/iQuHACK/2025-Classiq/blob/main/WS_iQuHack_2025_final.ipynb) is highly recommended as well!
 
 
-<img width="335" alt="MIT-Classiq Logo" src="https://github.com/user-attachments/assets/3213b0ac-47ee-462a-80f4-a45c5cd76c52" />
+<div style="text-align: center;">
+    <img width="500" alt="MIT-Classiq Logo" src="https://github.com/user-attachments/assets/3213b0ac-47ee-462a-80f4-a45c5cd76c52" />
+</div>
+
