@@ -8,7 +8,7 @@
 
 [Challenge workbook](https://github.com/iQuHACK/2025-Classiq/blob/main/classiq_iQuHack_2025_final.ipynb)
 
-**Your resources:**
+## Your resources:
 - The Classiq IDE at [platform.classiq.io](https://platform.classiq.io/).
 - The [Classiq Library](https://github.com/Classiq/classiq-library) – the largest collection of quantum functions, algorithms, and tutorials.
 - [Classiq's documentation](https://docs.classiq.io/latest/) and the [Classiq101](https://docs.classiq.io/latest/classiq_101/) for quick onboarding to high-level quantum modelling concepts.
@@ -17,7 +17,7 @@
 
 <br>
 <br>
-**Submission:**
+## Submission:
 
 Submit all the files via the [submission page](https://fvrn0h72gwo.typeform.com/to/W4I7N9yl).
 
